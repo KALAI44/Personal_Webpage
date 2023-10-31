@@ -1,0 +1,44 @@
+
+.HB{	/* home button */
+	 width:130px; 
+	 height:40px;
+	 color: purple;
+	 font-family: sans-serif;
+	font-size: 20px;
+	 border-radius: 40px;
+	 border-color: hotpink;
+	 background-color: powderblue;
+	 font-weight: bold;
+}	
+.CB{	/* countect button */
+	 width:150px; 
+	 height:20px;
+	 color: purple;
+	 font-family: sans-serif;
+	 border-radius: 40px;
+	 border-color: hotpink;
+	 background-color: powderblue;
+	 font-weight: bold;
+}
+.EH{	/* education button */
+	font-weight: bold;
+	color: blue;
+	font-style: italic;
+}
+
+.SH{	/* skill button */
+	font-weight: bold;
+	color: blue;
+}
+/*.img{
+	height="100px" 
+	width="50px"
+	margin="100px" 
+	border: 1px;
+	border-radius:200px ;
+}
+.img{
+	background-image: none;
+
+}
+*/
